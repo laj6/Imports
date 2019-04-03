@@ -1,0 +1,36 @@
+body {
+  color: rgba(65,75,86);
+  font-family: arial;
+  margin: 0px;
+  background-color: lightblue;
+}
+
+Div {
+  min-height:100vh;
+  min-width: 100vw;
+}
+
+h1,h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  color:darkblue;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: black;
+}
+
+img {
+  display: flex;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+a{
+  color: rgb(0,0,0);
+}

@@ -2,7 +2,7 @@ body {
   color: rgba(65,75,86);
   font-family: arial;
   margin: 0px;
-  background-color: #B0E0E6;
+  background-color: lightblue;
 }
 
 Div {
@@ -16,7 +16,7 @@ h1,h3,h4 {
 
 h1 {
   font-size: 5em;
-  color:#00008B
+  color:darkblue;
 }
 
 h3 {
@@ -25,7 +25,7 @@ h3 {
 }
 
 h4 {
-  font-size: 0.6em;
+  font-size: 0.9em;
   color: black;
 }
 
@@ -42,16 +42,13 @@ a{
 
 
 /*Browse Button*/
-
-button {
- color: #e7e7e7;;
- background-color: #008CBA;
- padding: 10px
- border-radius: 15px;
- display: center;
- font-size: 0.9em;
-
+.sg-University-btn {
+ color: #ffffff;
+ background-color: yellow;
 }
 
-
-/* https://www.quackit.com/css/css_color_codes.cfm <- good for colors */
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */
+.button5 {background-color: #555555;} /* Black */

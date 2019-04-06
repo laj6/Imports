@@ -42,9 +42,21 @@ a{
 
 
 /*Browse Button*/
+<<<<<<< HEAD
 .sg-University-btn {
  color: #ffffff;
  background-color: yellow;
+=======
+
+Button {
+ color: #e7e7e7;;
+ background-color: #008CBA;
+ padding: 10px
+ border-radius: 15px;
+ display: center;
+ font-size: 0.9em;
+
+>>>>>>> bdce0d568a59393896dfac154a6b6653bca2aec1
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
